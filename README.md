@@ -18,7 +18,7 @@ ___
 
 ​	文件系统中设计了两个服务器`serverDB`和`server`，以及一个客户端`client`。主要使用了三层的客户-服务器模型，实现的是上传/下载的分布式文件系统，如下图所示：
 
-![image-20220115153133306](C:\Users\82458\Desktop\github\DFS-based-on-rpc\img\image-1.png)
+![image-1](https://github.com/bupingxx/DFS-based-on-rpc/blob/main/img/image-1.png)
 
 ##### 3. 透明性
 
@@ -78,13 +78,13 @@ ___
 
 ​	`makefile`中包含了参考的基本指令，在运行时可以添加`-h`指令来获得帮助，如下所示。
 
-![image-20220223223911029](C:\Users\82458\Desktop\github\DFS-based-on-rpc\img\image-2.png)
+![image-2](https://github.com/bupingxx/DFS-based-on-rpc/blob/main/img/image-2.png)
 
 
 
 #### 四、运行效果
 
-![image-20220115182737267](C:\Users\82458\Desktop\github\DFS-based-on-rpc\img\image-3.png)
+![image-3](https://github.com/bupingxx/DFS-based-on-rpc/blob/main/img/image-3.png)
 
 
 
@@ -92,6 +92,6 @@ ____
 
 
 
-![image-20220115183016664](C:\Users\82458\Desktop\github\DFS-based-on-rpc\img\image-4.png)
+![image-4](https://github.com/bupingxx/DFS-based-on-rpc/blob/main/img/image-4.png)
 
 
